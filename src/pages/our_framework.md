@@ -1,3 +1,0 @@
-# Our amazing framework
-
-Damn!!
