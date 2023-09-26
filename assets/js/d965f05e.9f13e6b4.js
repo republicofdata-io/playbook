@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkframework=self.webpackChunkframework||[]).push([[7989],{3614:e=>{e.exports=JSON.parse('{"permalink":"/framework/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
