@@ -54,10 +54,20 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Framework',
+        title: 'Product Analytics Framework',
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://www.lantrns.co',
+            label: 'Website',
+            position: 'right',
+          },
+          {
+            href: 'https://newsletter.lantrns.co',
+            label: 'Newsletter',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/lantrns',
             label: 'GitHub',
             position: 'right',
           },
@@ -65,7 +75,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Framework, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Lantrns Analytics`,
       },
       prism: {
         theme: lightCodeTheme,
