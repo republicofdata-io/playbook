@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Framework',
+  title: 'Playbook',
   tagline: 'Unlock product growth with data',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://republic-of-data.github.io',
+  url: 'https://lantrns-analytics.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/framework/',
+  baseUrl: '/playbook/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'republic-of-data', // Usually your GitHub org/user name.
-  projectName: 'framework', // Usually your repo name.
+  organizationName: 'lantrns-analytics', // Usually your GitHub org/user name.
+  projectName: 'playbook', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -67,7 +67,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/lantrns',
+            href: 'https://github.com/lantrns-analytics',
             label: 'GitHub',
             position: 'right',
           },
