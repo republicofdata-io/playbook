@@ -54,7 +54,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Product Analytics Framework',
+        title: 'Product Analytics Playbook',
         items: [
           {
             href: 'https://www.lantrns.co',
