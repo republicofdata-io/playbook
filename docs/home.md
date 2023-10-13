@@ -5,17 +5,21 @@ slug: /
 sidebar_position: 1
 ---
 
-When it comes to empowering a startup's growth strategy through data, product leaders have an abundance of SaaS and consulting options, but very few end-to-end solutions. Offerings range from product telemetry, and self-serve analysis, to data platform engineering.
+Product leaders are on a quest to steer the development of their product on a path to growth. Their output is decision-making. So they need the right input to assess how to move forward and if those steps amount to desired outcomes.
 
-Driven more by economic opportunities and competitive differentiation, product analytics services are becoming decoupled between strategy, engineering and analysis. This leaves product leaders to stitch together all components of a data-driven startup growth strategy.
+Inputs are multiple. Interviews with users, feedback from support teams, strategic direction from the leadership team, data, etc. As well as a good dose of intuition. **Data is just one input that a product leader needs to process to make informed decisions on moving the product forward**.
 
-We became good at generating data. But not at using it to discern the most viable path forward for our products. We somehow lost track of what it means to be data-driven.
+Unfortunately, being data-driven has become more than a motto, but an industry’s rallying cry. It’s not uncommon for teams to adopt technologies that will make their data stack more resilient, scalable and high-quality. All worthy goals as well. But all useless if it’s not directly impacting business outcomes.
+
+Being data-driven should be vendor-agnostic. Instead, **being data-driven should be a process founded on philosophical principles and practices, to provide relevant, time-sensitive and accurate data to decision-makers**. It’s about producing the inputs to accelerate that decision-making cycle.
+
+## Purpose
 
 :::tip Our Mission
-To be the ally of product leaders in successfully using data to uncover their product’s path to growth.
+We believe that data-driven product development is a process, not a technological choice. We’re on a mission to be the allies of product leaders who want to enrich their decision-making with relevant, time-sensitive and accurate data.
 :::
 
-We of course care about how to generate product data. But not only. As "data-driven" implies, data is only a means to an end. Our playbook is our approach to **assemble and fine-tune your data-driven path discovery engine**.
+This playbook is our approach to assemble and fine-tune a data-driven and iterative product development decision-making engine.
 
 ## What we'll cover
 
