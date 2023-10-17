@@ -7,11 +7,9 @@ sidebar_position: 1
 
 Product leaders are on a quest to steer the development of their product on a path to growth. Their output is decision-making. So they need the right input to assess how to move forward and if that path leads to desired outcomes.
 
-Inputs are multiple: interviews with users, feedback from support teams, strategic direction from the leadership team, data, intuition, etc. Data is just one input that product leaders process to make informed decisions. **For it to be valuable, data needs to be timely, relevant and accurate**. 
+Inputs are multiple: interviews with users, feedback from support teams, strategic direction from the leadership team, data, intuition, etc. Data is just one input that product leaders process to make informed decisions. For it to be valuable, data needs to be timely, relevant and accurate. 
 
-Unfortunately, as organizations grow, data production usually becomes an engineering pursuit. Product leaders become clients. Success is measured by SLA metrics and no more by how data contributed to moving the business forward.
-
-**Being data-driven should be a process founded on philosophical principles and practices, to provide relevant, time-sensitive and accurate data to decision-makers**. It’s about producing the inputs to accelerate their decision-making cycle.
+**Being data-driven is essentially a quest for product leaders to translate data into actionable insights**. But as businesses grow, data production usually becomes an engineering pursuit. Product managers become one of many clients. Data initiatives are evaluated against compliance with SLAs and not by how they contribute to moving the business forward.
 
 ## Purpose
 
