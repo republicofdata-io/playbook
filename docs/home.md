@@ -5,7 +5,7 @@ slug: /
 sidebar_position: 1
 ---
 
-Product leaders are on a quest to steer the development of their product on a path to growth. Their output is decision-making. So they need the right input to assess how to move forward and if that path leads to desired outcomes.
+Product leaders are on a quest to steer the development of their products on a path to growth. Their output is decision-making. So they need the right input to assess how to move forward and if that path leads to desired outcomes.
 
 Inputs are multiple: interviews with users, feedback from support teams, strategic direction from the leadership team, data, intuition, etc. Data is just one input that product leaders process to make informed decisions. For it to be valuable, data needs to be timely, relevant and accurate. 
 
@@ -17,7 +17,7 @@ Inputs are multiple: interviews with users, feedback from support teams, strateg
 We believe that data-driven product development is a process, not a technological stack. We’re on a mission to be the allies of product leaders who want to enrich their decision-making with relevant, time-sensitive and accurate data.
 :::
 
-This playbook is our approach to assemble and fine-tune a data-driven and iterative product development decision-making engine.
+This playbook is our approach to assembling and fine-tuning a data-driven and iterative product development decision-making engine.
 
 ## What we'll cover
 

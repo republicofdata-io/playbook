@@ -62,8 +62,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://newsletter.lantrns.co',
-            label: 'Newsletter',
+            href: 'https://blog.lantrns.co',
+            label: 'Blog',
             position: 'right',
           },
           {
