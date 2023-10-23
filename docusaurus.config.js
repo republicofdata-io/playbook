@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Playbook',
-  tagline: 'Unlock product growth with data',
+  tagline: 'Our approach to building data products',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -54,7 +54,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Product Analytics Playbook',
+        title: 'Data Products Playbook',
         items: [
           {
             href: 'https://www.lantrns.co',
