@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://playbook.lantrns.co',
+  url: 'https://playbook.republicofdata.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'lantrns-analytics', // Usually your GitHub org/user name.
+  organizationName: 'republicofdata-io', // Usually your GitHub org/user name.
   projectName: 'playbook', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -57,17 +57,17 @@ const config = {
         title: 'Data Products Playbook',
         items: [
           {
-            href: 'https://www.lantrns.co',
+            href: 'https://www.republicofdata.io',
             label: 'Website',
             position: 'right',
           },
           {
-            href: 'https://blog.lantrns.co',
+            href: 'https://blog.republicofdata.io',
             label: 'Blog',
             position: 'right',
           },
           {
-            href: 'https://github.com/lantrns-analytics',
+            href: 'https://github.com/republicofdata-io',
             label: 'GitHub',
             position: 'right',
           },
@@ -75,7 +75,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Lantrns Analytics`,
+        copyright: `Copyright © ${new Date().getFullYear()} RepublicOfData.io`,
       },
       prism: {
         theme: lightCodeTheme,

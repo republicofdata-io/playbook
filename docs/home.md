@@ -5,6 +5,13 @@ slug: /
 sidebar_position: 1
 ---
 
+TODO
+- RepublicOfData mission
+- Our approach to building and growing data products
+- This is how our embedded service pods work
+
+---
+
 Product leaders are on a quest to steer the development of their products on a path to growth. Their output is decision-making. So they need the right input to assess how to move forward and if that path leads to desired outcomes.
 
 Inputs are multiple: interviews with users, feedback from support teams, strategic direction from the leadership team, data, intuition, etc. Data is just one input that product leaders process to make informed decisions. For it to be valuable, data needs to be timely, relevant and accurate. 
