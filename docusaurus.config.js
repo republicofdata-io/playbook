@@ -54,7 +54,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Data Products Playbook',
+        title: 'Data Product Building Playbook',
         items: [
           {
             href: 'https://www.republicofdata.io',
