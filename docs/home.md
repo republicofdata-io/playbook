@@ -5,30 +5,21 @@ slug: /
 sidebar_position: 1
 ---
 
-TODO
-- RepublicOfData mission
-- Our approach to building and growing data products
-- This is how our embedded service pods work
+It used to be that being data-driven meant simply having a data warehouse and a business intelligence tool. Those days are behind us. Data now proliferates within organizations at an astonishing rate, and individuals at every level are empowered to develop data products that can deliver significant value.
 
----
+## The New Era of Data Products
 
-Product leaders are on a quest to steer the development of their products on a path to growth. Their output is decision-making. So they need the right input to assess how to move forward and if that path leads to desired outcomes.
+The rapid growth in data products is exhilarating, but it also invites us to aim higher than mere functionality—to embrace the roles of data guardians and champions of societal good. We're not just allowing everyone to build data tools. We're guiding that creativity toward frameworks that boost not only productivity but also drive meaningful change in society.
 
-Inputs are multiple: interviews with users, feedback from support teams, strategic direction from the leadership team, data, intuition, etc. Data is just one input that product leaders process to make informed decisions. For it to be valuable, data needs to be timely, relevant and accurate. 
-
-**Being data-driven is essentially a quest for product leaders to translate data into actionable insights**. But as businesses grow, data production usually becomes an engineering pursuit. Product managers become one of many clients. Data initiatives are evaluated against compliance with SLAs and not by how they contribute to moving the business forward.
-
-## Purpose
-
-:::tip Our Mission
-We believe that data-driven product development is a process, not a technological stack. We’re on a mission to be the allies of product leaders who want to enrich their decision-making with relevant, time-sensitive and accurate data.
+:::tip Our Manifesto
+We craft data products that are more than tools; they are beacons of change. Composable, impactful, and designed to multiply user value by fostering societal advancement and data empowerment.
 :::
 
-This playbook is our approach to assembling and fine-tuning a data-driven and iterative product development decision-making engine.
+This playbook is our blueprint for designing data products that are robust, ethical, and foundational for continuous innovation.
 
-## What we'll cover
+## What We'll Cover
 
-- The data-driven **strategy** first, what it means for product leaders to use data in uncovering their product's path forward.
-- What is an actual **path-discovery engine**, how beyond being a data platform, it is a practice and a process that you inject in all product management's workflows.
-- How to **engineer** that engine, the options you have, being diligent in only building what you need first, and establishing an architecture that scales.
-- And finally, how to **analyse** that data to inform the relevant and time-sensitive decisions for you to take the next step forward towards product growth.
+- **Constructing an Ethical Architecture**: Creating a structure for composable data products that promote ethical data usage and ensure accessibility.
+- **Purpose-Driven Development**: Managing the development of data products to solve real-world problems while also engaging and enlightening users on the vital role of data activism.
+- **Engineering for Scalability and Influence**: Building data products that not only function at scale but also have the power to propel the message of a data-empowered society.
+- **Measuring Beyond Metrics**: Gauging user engagement by the visible impact our products have on the community and society at large.
