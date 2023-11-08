@@ -23,7 +23,7 @@ This playbook is your compass for developing data products that are potent, prin
 
 At RepublicOfData.io, we are pioneering the open development of data products that serve as a public commons of knowledge and innovation. The diagram below represents the initial suite of data products we are building transparently in the public eye—our commitment to an open data ecosystem.
 
-![Data Mesh of RepublicOfData.io's Initial Public Data Products](/img/rod_data_platform.png)
+![Data Mesh of RepublicOfData.io's Initial Public Data Products](/img/playground_data_platform_design.png)
 
 Each node in this data mesh signifies a distinct component of our larger data architecture, working in synergy to demystify and democratize data usage. From micro data products to large-scale social movements, we're crafting an interconnected web that emphasizes ethical data practice, transparency, and societal value. 
 
