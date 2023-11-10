@@ -11,7 +11,7 @@ At [RepublicOfData.io](https://www.republicofdata.io), we believe that data is m
 Our market hypothesis pivots on the belief that there is a growing demand for data products designed with ethical considerations at their core. We position ourselves at the intersection of innovation and activism, developing data products that address real societal needs while fostering a culture of transparency and accountability.
 
 :::info Our Mission
-To ethically build innovative data products that pioneer societal progress and inspire global change.
+To build the future of data products with ethical innovation, creating value for organizations and society alike.
 :::
 
 ## Introducing Our Ethical Data Playground
