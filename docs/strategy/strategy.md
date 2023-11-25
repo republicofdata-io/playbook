@@ -124,65 +124,271 @@ Our commitment to GDPR and CCPA compliance is an ongoing process. We are dedicat
 
 # From a Foundation of Engineering Best Practices
 
-<<OLIVIER TO WRITE THIS SECTION, OR CAITLIN TO WRITE WITH OLIVIER'S HELP.>>
+:::tip
+Section in progress.
+:::
 
 # With Rapid Product Discovery and Prototyping
 
-At RepublicofData.io, we start every product discovery sprint by using the Jobs To Be Done framework. By starting with JTBD, we gain a deep empathy for the customer's motivations, pain points, and desired outcomes. It helps us develop a clear understanding of what "job" our customer is hiring us to do, which is critical for effective prototyping.
+At RepublicofData.io, we start every 6-week sprint with product discovery, which is then quickly followed by prototyping, user feedback, product iteration, and finally a working Minimum Valuable Product.
 
-## Section 2: Jobs To Be Done (JTBD)
+## Onboarding
 
-### History of the Framework:
-**Inventors:** The Jobs To Be Done (JTBD) framework was developed by Clayton Christensen, a Harvard Business School professor, and his colleagues in the early 2000s. It emerged from the study of disruptive innovations and the understanding that customers "hire" products or services to get specific jobs done.
+### Step 1: Ensuring Alignment
 
-**Famous Usage:** JTBD has been widely applied in various industries, from technology to consumer goods. Notably, companies like Airbnb and Intercom have utilized JTBD principles to enhance their product development and user experience strategies.
+#### 1.1 Introduction to JTBD
 
-**Popularity in Product Management:** JTBD has gained popularity in product management due to its focus on understanding the underlying motivations of users. It is used to design products that address specific needs and solve real problems for customers.
+- **Objective:** If necessary, familiarize the team with the JTBD framework and its relevance to data product development.
+- **Activities:**
+  - Conduct onboarding sessions to introduce the core concepts of JTBD.
+  - Provide case studies illustrating successful implementations of JTBD in similar contexts.
 
-### Overview of Use in Practice:
-1. **Identifying Jobs:** Conduct thorough research to identify the core "jobs" or tasks that users are trying to accomplish. Understand the functional and emotional aspects of their needs.
+#### 1.2 Introduction to The Lean Startup
 
-2. **Segmentation:** Segment users based on the specific jobs they are trying to fulfill. Recognize that different user segments may have distinct jobs and priorities.
+- **Objective:** Introduce the core principles and methodology of The Lean Startup to the team as needed.
+- **Activities:**
+  - Conduct training sessions covering key concepts such as Build-Measure-Learn, Minimum Viable Product (MVP), and validated learning.
+  - Share case studies illustrating successful applications of The Lean Startup in similar contexts.
+  
+#### 1.3 Aligning Business Goals
 
-3. **Product Design:** Develop products that align with the identified jobs. Prioritize features and improvements that directly contribute to fulfilling user needs.
+- **Objective:** Establish a clear connection between the organization's business goals and the application of JTBD and The Lean Start Up.
+- **Activities:**
+  - Facilitate discussions to identify key business objectives and how our framework stack can contribute.
 
-4. **Feedback Loop:** Establish a continuous feedback loop to validate assumptions and gather insights. Regularly reassess user jobs and iterate on the product to remain aligned with evolving user needs.
+## Jobs To Be Done (JTBD)
 
-## Section 3: The Lean Startup
+By starting with JTBD, we gain a deep empathy for the customer's motivations, pain points, and desired outcomes. It helps us develop a clear understanding of what "job" our customer is hiring us to do, which is critical for rapid prototyping.
 
-### History of the Framework:
-**Inventors:** The Lean Startup methodology was popularized by Eric Ries in his book "The Lean Startup," published in 2011. It draws inspiration from lean manufacturing principles and agile development practices.
+Below you will find our structured approach for implementing the Jobs To Be Done (JTBD) framework for our clients.
 
-**Famous Usage:** The Lean Startup has been widely embraced by startups and established companies alike. Successful startups such as Dropbox and Airbnb attribute part of their success to the Lean Startup approach.
+### Step 2: User Research and Persona Development
 
-**Popularity in Product Management:** The Lean Startup methodology has become a cornerstone of modern product management. Its principles of iterative development, validated learning, and efficient resource utilization are highly applicable in fast-paced product environments.
+#### 2.1 Defining Target User Segments
 
-### Overview of Use in Practice:
-1. **Build-Measure-Learn:** Adopt a cycle of continuous improvement through the Build-Measure-Learn feedback loop. Build a minimum viable product (MVP), measure its performance, and learn from user feedback to inform the next iteration.
+- **Objective:** Identify and prioritize user segments to tailor JTBD analysis.
+- **Activities:**
+  - Collaborate with product managers to understand their user base.
+  - Utilize existing data and conduct additional research to define distinct user segments.
 
-2. **Validated Learning:** Prioritize validated learning over traditional metrics. Focus on learning what works and what doesn't to refine product features and strategies.
+#### 2.2 Persona Creation
 
-3. **Iterative Development:** Embrace rapid and iterative development cycles. Avoid lengthy planning phases and aim to quickly bring products to market, allowing for faster adaptation based on user responses.
+- **Objective:** Develop detailed user personas to guide JTBD exploration.
+- **Activities:**
+  - Conduct collaborative workshops with product managers to capture user behaviors and motivations.
+  - Document personas reflecting the diverse needs and goals of identified user segments.
 
-4. **Pivot or Persevere:** Be prepared to pivot or persevere based on feedback and data. If the product is not meeting user needs, consider pivoting to a new direction; otherwise, persevere and enhance successful features.
+### Step 3: Job Mapping and Prioritization
+
+#### 3.1 Mapping User Jobs
+
+- **Objective:** Collaboratively map out the primary jobs users aim to accomplish with the data product.
+- **Activities:**
+  - Conduct joint workshops with product managers to identify and document user jobs.
+  - Consider both functional and emotional aspects of the identified jobs.
+
+#### 3.2 Prioritizing Jobs
+
+- **Objective:** Evaluate and prioritize identified jobs based on impact and feasibility.
+- **Activities:**
+  - Establish a scoring system to assess the significance of each job.
+  - Collaborate with product managers to align job priorities with development timelines.
+
+### Step 4: Documentation and Knowledge Sharing
+
+#### 4.1 Repository of JTBD Insights
+
+- **Objective:** Create a shared repository documenting JTBD insights and outcomes.
+- **Activities:**
+  - Document the entire JTBD process, including target user segments, research findings, and job maps.
+  - Develop a knowledge-sharing platform accessible to both consultancy and client teams.
+
+## The Lean Startup
+
+Popularized by Eric Ries in his book "The Lean Startup," this framework draws inspiration from lean manufacturing principles and agile development practices. Successful startups such as Dropbox and Airbnb attribute part of their success to the Lean Startup approach.
+
+### Step 5: Customer Development and Validation
+
+#### 5.1 Defining Customer Personas
+
+- **Objective:** Clearly define and understand the target audience for the data product.
+- **Activities:**
+  - Collaborate with product managers to identify and document customer personas.
+  - Utilize data and insights gathered from previous user research for effective persona creation.
+
+#### 5.2 Hypothesis Formulation
+
+- **Objective:** Formulate hypotheses about user needs, problems, and potential solutions.
+- **Activities:**
+  - Facilitate collaborative sessions to generate and document hypotheses with product managers.
+  - Ensure alignment between hypotheses and overarching business objectives.
+
+### Step 6: MVP Development and Testing
+
+#### 6.1 MVP Design and Build
+
+- **Objective:** Develop a Minimum Viable Product (MVP) based on formulated hypotheses.
+- **Activities:**
+  - Collaborate on designing a lean version of the product with essential features.
+  - Utilize data engineering expertise to efficiently build and deploy the MVP.
+
+#### 6.2 Test and Iterate
+
+- **Objective:** Gather real-world feedback on the MVP to inform further development.
+- **Activities:**
+  - Establish a testing plan, incorporating user feedback loops and data analytics.
+  - Encourage a rapid iteration cycle to refine the product based on user insights.
+
+### Step 7: Pivot or Persevere
+
+#### 7.1 Data-Driven Decision-Making
+
+- **Objective:** Use data analytics to inform strategic decisions on whether to pivot or persevere.
+- **Activities:**
+  - Analyze user feedback and performance metrics to evaluate the success of the MVP.
+  - Collaborate with product managers to make informed decisions on adjusting the product strategy.
+
+#### 7.2 Pivot Strategy
+
+- **Objective:** Define a strategic pivot plan if the MVP requires significant adjustments.
+- **Activities:**
+  - Collaborate on identifying alternative hypotheses and pivoting the product direction if necessary.
+  - Ensure a smooth transition in development efforts based on validated learning.
+
+### Step 8: Scaling and Growth
+
+#### 8.1 Scaling Strategies
+
+- **Objective:** Develop strategies for scaling the product based on validated success.
+- **Activities:**
+  - Collaborate with product managers to identify scalable features and functionalities.
+  - Integrate scalability considerations into ongoing development efforts.
+
+#### 8.2 Continuous Improvement
+
+- **Objective:** Foster a culture of continuous improvement and optimization.
+- **Activities:**
+  - Establish regular retrospectives to reflect on the effectiveness of Lean Startup principles.
+  - Encourage ongoing learning and adaptation to evolving market conditions.
+
+### Step 9: Documentation and Knowledge Sharing
+
+#### 9.1 Knowledge Repository
+
+- **Objective:** Document insights and outcomes from Lean Startup applications for reference.
+- **Activities:**
+  - Create a centralized repository for Lean Startup documentation, including hypothesis testing results and strategic decisions.
+  - Share insights with the wider consultancy team to promote knowledge sharing.
+
+#### 9.2 Training and Integration
+
+- **Objective:** Ensure team members are well-versed in Lean Startup principles and practices.
+- **Activities:**
+  - Integrate Lean Startup training into onboarding processes for new team members.
+  - Provide ongoing support and resources to facilitate continuous learning.
+
+### Step 10: Continuous Monitoring and Evaluation
+
+#### 10.1 Metrics and KPIs
+
+- **Objective:** Define metrics and Key Performance Indicators (KPIs) for ongoing evaluation.
+- **Activities:**
+  - Collaborate with product managers to establish KPIs aligned with business objectives.
+  - Regularly monitor and analyze metrics to assess the impact of Lean Startup practices on product performance.
+
+#### 10.2 Quarterly Reviews and Adjustments
+
+- **Objective:** Conduct regular reviews to assess the effectiveness of Lean Startup implementations.
+- **Activities:**
+  - Schedule quarterly reviews with product managers to reflect on Lean Startup applications.
+  - Use feedback and data to refine Lean Startup processes and strategies collaboratively.
 
 # And an Emphasis on Portfolio Risk Mitigation
 
-### History of the Framework:
-**Developers:** The EthicalOS Risk Mitigation Checklist was developed by the Institute for the Future (IFTF) as part of the broader Ethical OS Toolkit. The toolkit was created to help organizations anticipate and navigate the ethical implications of technology.
+The EthicalOS Risk Mitigation Checklist was developed by the Institute for the Future (IFTF) as part of the broader Ethical OS Toolkit. The toolkit was created to help organizations anticipate and navigate the ethical implications of technology. While not as widely known as some other frameworks, it has been utilized by organizations committed to responsible innovation.
 
-**Famous Usage:** The Ethical OS Toolkit has gained recognition for its practical approach to addressing ethical challenges in technology. While not as widely known as some other frameworks, it has been utilized by organizations committed to responsible innovation.
+We will review this list of questions with you, and determine which of these are applicable to your particular product and business organization. We will then discuss and answer each question to ensure we are addressing any potential risks associated with our data product. 
 
-**Popularity in Product Management:** The EthicalOS Risk Mitigation Checklist is particularly relevant in product management for its focus on identifying and mitigating ethical risks associated with emerging technologies, aligning with a growing emphasis on responsible and ethical product development.
+1. **Risk Zone 1: Truth, Disinformation, Propaganda**
+   - What type of data do users expect you to accurately share, measure, or collect?
+   - How could bad actors use your tech to subvert or attack the truth? What could become the equivalent of fake news, bots, or deep fakes, on your platform?
+   - How could someone use this technology to undermine trust in established social institutions, like media, medicine, democracy, science? Could your tech be used to generate or spread misinformation to create political distrust or social unrest?
+   - Imagine the form such misinformation might take on your platform.
+   - Even if your tech is meant to be apolitical in nature, how could it be co-opted to destabilize a government?
 
-### Overview of Use in Practice:
-1. **Scenario Exploration:** Use the toolkit's scenario exploration to envision potential ethical challenges related to your data product. Consider how these challenges might manifest and impact users.
+2. **Risk Zone 2: Addiction & the Dopamine Economy**
+   - Does the business model behind your chosen technology benefit from maximizing user attention and engagement—i.e., the more, the better? If so, is that good for the mental, physical, or social health of the people who use it? What might not be good about it?
+   - What does “extreme” use of, addiction to, or unhealthy engagement with your tech look like?
+   - What does “moderate” use to or healthy engagement look like?
+   - How could you design a system that encourages moderate use? Can you imagine a business model where promoting moderate use is more sustainable or profitable than always seeking to increase or maximize engagement?
+   - If there is potential for toxic materials like conspiracy theories and propaganda to drive high levels of engagement, what steps are being taken to reduce the prevalence of that content? Is it enough?
 
-2. **Ethical Risk Assessment:** Conduct an ethical risk assessment specific to your data product. Identify potential risks related to data privacy, security, bias, and other ethical considerations.
+3. **Risk Zone 3: Economic & Asset Inequalities**
+   - Who will have access to this technology and who won’t? Will people or communities who don’t have access to this technology suffer a setback compared to those who do?
+   - What does that setback look like? What new differences will there be between the “haves” and “have-nots” of this technology?
+   - What asset does your technology create, collect, or disseminate? (example: health data, gigs, a virtual currency, deep AI) Who has access to this asset? Who has the ability to monetize it?
+   - Is the asset (or profits from it) fairly shared or distributed with other parties who help create or collect it?
+   - Are you using machine learning and robots to create wealth, rather than human labor? If you are reducing human employment, how might that impact overall economic well-being and social stability? Are there other ways your company or product can contribute to our collective economic security, if not through employment of people?
 
-3. **Values Assessment:** Engage in a values assessment to identify and prioritize the values guiding your data product development. Consider ethical principles such as transparency, fairness, and user autonomy.
+4. **Risk Zone 4: Machine Ethics & Algorithmic Biases**
+   - Does this technology make use of deep data sets and machine learning? If so, are there gaps or historical biases in the data that might bias the technology?
+   - Have you seen instances of personal or individual bias enter into your product’s algorithms?
+   - How could these have been prevented or mitigated?
+   - Is the technology reinforcing or amplifying existing bias?
+   - Who is responsible for developing the algorithm? Is there a lack of diversity in the people responsible for the design of the technology?
+   - How will you push back against a blind preference for automation (the assumption that AI-based systems and decisions are correct and don’t need to be verified or audited)?
+   - Are your algorithms transparent to the people impacted by them? Is there any recourse for people who feel they have been incorrectly or unfairly assessed?
 
-4. **Iterative Use:** Utilize the toolkit iteratively throughout the development lifecycle. Revisit scenarios, conduct additional risk assessments as the project progresses, and adapt strategies based on new insights.
+5. **Risk Zone 5: Surveillance State**
+   - How might a government or military body utilize this technology to increase its capacity to surveil or otherwise infringe upon the rights of its citizens?
+   - What could governments do with this data if they were granted access to it, or if they legally required or subpoenaed access to it?
+   - Who, besides government or military, might use the tools and data you’re creating to increase surveillance of targeted individuals? Whom would they track, why—and do you want your tech to be used in this way?
+   - Are you creating data that could follow users throughout their lifetimes, affect their reputations, and impact their future opportunities? Will the data your tech is generating have long-term consequences for the freedoms and reputation of individuals?
+   - Whom would you not want to use your data to surveil and make decisions about individuals, and why not? What can you do to proactively protect this data from being accessible to them?
+
+6. **Risk Zone 6: Data Control & Monetization**
+   - What data are you collecting from users? Do you really need to collect it? Are you selling it?
+   - If so, whom are you selling it to and do users know this? How can you be more transparent about this?
+   - Do your users have the right and ability to access the data you have collected about them? If not, how can you better support users in easily and transparently knowing about themselves what you already know about them?
+   - If you profit from the use or sale of user data, do your users share in that profit? What options would you consider for giving users the right to share profits on their own data?
+   - Could you build ways to give users the right to share and monetize their own independently?
+   - What could bad actors do with this data if they had access to it? What is the worst thing someone could do with this data if it were stolen or leaked?
+   - Do you have a policy in place for what happens to customer data if your company is bought, sold, or shut down?
+
+7. **Risk Zone 7: Implicit Trust & User Understanding**
+   - Does the technology you’re building have a clear code of rights for users? Are the terms of service easy to read, access, and understand?
+   - Is there a version of your product that is available to use if users don’t want to sign the user agreements?
+   - Does your technology do anything your users don’t know about, or would probably be surprised to find out about? If so, why are you not sharing this information explicitly—and what kind of backlash might you face if users found out?
+   - If users object to the idea of their actions being monetized, or their data being sold to specific types of groups or organizations, though still want to use the platform, what options do they have? Is it possible to create alternative models that builds trust and allows users to opt-in or opt-out of different aspects of your business model moving forward?
+   - Are all users treated equally? If not—and your algorithms and predictive technologies prioritize certain information or set prices or access differently for different users—how would you handle consumer demands or government regulations that require all users be treated equally, or at least transparently unequally?
+
+8. **Risk Zone 8: Hateful & Criminal Actors**
+   - How could someone use your technology to bully, stalk, or harass other people?
+   - What new kinds of ransomware, theft, financial crimes, fraud, or other illegal activity could potentially arise in or around your tech?
+   - Do technology makers have an ethical responsibility to make it harder for bad actors to act?
+   - How could organized hate groups use your technology to spread hate, recruit, or discriminate against others? What does organized hate look like on your platform or community or users?
+   - What are the risks of your technology being weaponized? What responsibility do you have to prevent this? How do you work to create regulations or international treaties to prevent the weaponizing of technology?
+
+**General Questions for Product Managers**
+   - Have you assessed not only the first-order consequences of your product, service or platform, but also its second- and third-order impacts?
+   - Have you designed your product or service in such a way so as to ensure that a diverse set of users will be able to access?
+   - Have you ensured you’re collecting only as much user data as is absolutely necessary to operate your product and ensure your financial viability?
+   - Have you made certain that your training data or data sets represent a diverse set of users and that you’ve minimized any potential bias in the source of that data?
+   - Have you identified the most effective ways to ensure your product spreads only truthful content and information?
+   - Have you ensured the fairness, accountability, and transparency of any algorithms or machine learning processes embedded in your product or service?
+   - Have you designed appropriate off-ramps for your users? Have you eliminated, to the extent possible, bottomless pits, infinite scrolls, and attention traps?
+   - Have you found ways to avoid the use of any dark patterns in your UX?
+   - If you have them, are your notifications important enough to interrupt the user? Can they be delivered in a less intrusive manner—using, for example, a sound, a sensation, or subtle status change?
+   - Have you created systems that place a value on quality of user-generated content over quantity?
+   - Have you created contingency plans for data breach?
+   - Have you found ways to ensure that users will trust you before, during, and after such a breach?
+
+**Questions To Ask Before Shipping a Product**
+    - Have you written your terms of service clearly, succinctly, and in easy-to-understand language?
+    - Have you tested your product with a diverse set of users, representing diversity of age, gender, race, socioeconomic status and income, geography, political affiliation, language, ability, sexual orientation, religion, and education?
+    - Have you re-examined any potentially discarded paths to revenue or growth that you should reconsider in light of any of the unintended consequences you can foresee?
+    - Have you red-teamed your product to assess how a bad or malevolent actor (individual, group, or body) might weaponize your product?
+
 
 ---
 
