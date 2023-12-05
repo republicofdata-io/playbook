@@ -83,4 +83,4 @@ Below, we share our thoughts on community-first approaches to good data stewards
 
 ## Continuous Improvement
 
-Our commitment to GDPR and CCPA compliance is an ongoing process. We are dedicated to continuous improvement and staying abreast of developments in privacy regulations. Regular assessments, updates to policies, and proactive engagement with regulatory changes are integral to our approach.
+Our commitment to GDPR and CCPA compliance is an ongoing process. We are dedicated to continuous improvement and staying abreast of developments in privacy regulations.
