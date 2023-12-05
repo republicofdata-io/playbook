@@ -8,7 +8,7 @@ sidebar_position: 6
 
 The EthicalOS Risk Mitigation Checklist was developed by the Institute for the Future (IFTF) as part of the broader Ethical OS Toolkit. The toolkit was created to help organizations anticipate and navigate the ethical implications of technology. While not as widely known as some other frameworks, it has been utilized by organizations committed to responsible innovation.
 
-We will review this list of questions with you, and determine which of these are applicable to your particular product and business organization. We will then discuss and answer each relevant question to ensure we are addressing any potential risks associated with our data product. 
+We will review this list of questions with you, and determine which of these are applicable to your particular product and business organization. We will then discuss and answer each relevant question to ensure we are addressing any potential risks associated with our data product.
 
 1. **Risk Zone 1: Truth, Disinformation, Propaganda**
    - What type of data do users expect you to accurately share, measure, or collect?

@@ -72,7 +72,10 @@ Best practices for data security depend on the context and risks of your specifi
 
 Below, we share our thoughts on community-first approaches to good data stewardship. Each of these points could be an entire article unto themselves, but for now we will simply mention them in order to foster discussion in the future. 
 
-9. **Public Data Responsibility Initiatives:**
+9. **Data Anonymization By Default** 
+   - De-identify and aggregate data as much as reasonably possible. Keep anonymous data secure, even though it is not subject to GDPR or CCPA. Regularly reassess anonymization practices to stay ahead of emerging risks and challenges.
+
+10. **Public Data Responsibility Initiatives:**
    - Engage in public data responsibility initiatives. Actively participate in discussions, contribute to the development of industry standards, and advocate for ethical data practices within your sector.
 
 10. **Continuous Innovation in Data Management:**
