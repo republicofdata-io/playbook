@@ -1,6 +1,6 @@
 ---
-id: responsible-data-management
-title: Responsible Data Management
+id: ethics_security
+title: Ethics and Security
 sidebar_position: 3
 ---
 

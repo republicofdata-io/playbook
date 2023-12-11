@@ -1,7 +1,7 @@
 ---
-id: product-discovery-prototyping
-title: Product Discovery and Prototyping
-sidebar_position: 5
+id: product_purpose_definition
+title: Product purpose definition
+sidebar_position: 3
 ---
 
 # With Rapid Product Discovery and Prototyping

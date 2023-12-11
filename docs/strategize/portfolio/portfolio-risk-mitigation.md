@@ -1,7 +1,7 @@
 ---
 id: portfolio-risk-mitigation
 title: Portfolio Risk Mitigation
-sidebar_position: 6
+sidebar_position: 1
 ---
 
 # And an Emphasis on Portfolio Risk Mitigation
