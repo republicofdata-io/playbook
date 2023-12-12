@@ -26,13 +26,13 @@ Here's a quick visual overview of our approach:
 
 Each of these sections is documented in our Playbook, which is what you're reading right now. Below you'll find an overview of key Frameworks and SOPs that we're currently using. And again, we plan to continue to add to this documentation as we go - it is far from complete!
 
-[While Ensuring Responsible Data Management](strategy-procedures-principles/responsible-data-management)
+[While Ensuring Responsible Data Management](https://playbook.republicofdata.io/strategy-procedures-principles/responsible-data-management)
 
-[From a Foundation of Engineering Best Practices](strategy-procedures-principles/engineering-best-practices)
+[From a Foundation of Engineering Best Practices](https://playbook.republicofdata.io/strategy-procedures-principles/engineering-best-practices)
 
-[With Rapid Product Discovery and Prototyping](strategy-procedures-principles/product-discovery-prototyping)
+[With Rapid Product Discovery and Prototyping](https://playbook.republicofdata.io/strategy-procedures-principles/product-discovery-prototyping)
 
-[And an Emphasis on Portfolio Risk Mitigation](strategy-procedures-principles/portfolio-risk-mitigation)
+[And an Emphasis on Portfolio Risk Mitigation](https://playbook.republicofdata.io/strategy-procedures-principles/portfolio-risk-mitigation)
 
 ---
 
