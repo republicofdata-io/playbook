@@ -6,7 +6,7 @@ sidebar_position: 1
 ---
 
 :::info Our Mission
-[RepublicOfData.io](https://www.republicofdata.io) is a consulting agency of **data product builders**, all united by a common goal: to support other organizations in realizing their **social mission**.
+[RepublicOfData.io](https://www.republicofdata.io) is a data product building agency. We support organizations in realizing their **social mission**.
 :::
 
 We believe that data is more than a commodity; it’s a transformative force capable of uplifting societies. The legacy approach of data handling is obsolete; we champion a new era where data products are crafted not merely for business efficiency but for societal enrichment.
