@@ -1,10 +1,10 @@
 ---
-id: responsible-data-management
-title: Responsible Data Management
+id: ethics_security
+title: Ethics and security
 sidebar_position: 3
 ---
 
-# While Ensuring Responsible Data Management
+# Ethics and security for responsible data management
 
 At RepublicofData.io, our commitment to compliance with data protection regulations is not just a legal obligation -- it's a core element in our ethical approach to data management. This section of the Playbook outlines our practices and principles to not only ensure GDPR and CCPA compliance, but to exceed the minimum requirements of these regulations where necessary and good for society.
 

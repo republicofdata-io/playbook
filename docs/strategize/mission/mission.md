@@ -1,10 +1,10 @@
 ---
-id: product-discovery-prototyping
-title: Product Discovery and Prototyping
-sidebar_position: 5
+id: vision_mission_impact
+title: Vision, mission, and impact
+sidebar_position: 1
 ---
 
-# With Rapid Product Discovery and Prototyping
+# Vision, mission, and impact
 
 At RepublicofData.io, we start every 6-week sprint with product discovery, which is then quickly followed by prototyping, user feedback, product iteration, and finally a working Minimum Valuable Product.
 

@@ -1,10 +1,10 @@
 ---
-id: portfolio-risk-mitigation
-title: Portfolio Risk Mitigation
-sidebar_position: 6
+id: portfolio_management
+title: Portfolio management
+sidebar_position: 3
 ---
 
-# And an Emphasis on Portfolio Risk Mitigation
+# Portfolio management with an emphasis on risk mitigation
 
 The EthicalOS Risk Mitigation Checklist was developed by the Institute for the Future (IFTF) as part of the broader Ethical OS Toolkit. The toolkit was created to help organizations anticipate and navigate the ethical implications of technology. While not as widely known as some other frameworks, it has been utilized by organizations committed to responsible innovation.
 
