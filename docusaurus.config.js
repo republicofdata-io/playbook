@@ -44,6 +44,9 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-EKMEPKZ6ZF',
+        },
       }),
     ],
   ],
@@ -62,13 +65,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://blog.republicofdata.io',
-            label: 'Blog',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/republicofdata-io',
-            label: 'GitHub',
+            href: 'https://builders.republicofdata.io',
+            label: 'Newsletter',
             position: 'right',
           },
         ],
